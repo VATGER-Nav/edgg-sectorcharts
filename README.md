@@ -18,6 +18,6 @@
 | PSA         |          |
 | REU         |          |
 | RUD         |          |
-| SIG         |          |
+| SIG         |     X    |
 | STG         |          |
-| TAU         |          |
+| TAU         |     X    |
