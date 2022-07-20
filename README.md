@@ -2,13 +2,13 @@
 |:-----------:|:--------:|
 | BAD         |     X    |
 | DKB         |     X    |
-| EIF         |          |
-| GED         |          |
-| GIN         |          |
-| HAB         |          |
-| HEF         |          |
-| KIR         |          |
-| KNG         |          |
+| EIF         |     X    |
+| GED         |     X    |
+| GIN         |     X    |
+| HAB         |     X    |
+| HEF         |     X    |
+| KIR         |     X    |
+| KNG         |     X    |
 | KTG         |          |
 | LBU         |          |
 | MAN         |          |
