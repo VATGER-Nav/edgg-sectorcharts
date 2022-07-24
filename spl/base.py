@@ -22,7 +22,7 @@ def convert(x):
     deg = int(x[1:4])
     minute = int(x[5:7]) / 60
     sec = int(x[8:10]) / 3600
-    thous = int(x[11:]) / 3600 / 100
+    thous = int(x[11:]) / 3600 / 1000
     return deg + minute + sec + thous
 
 
