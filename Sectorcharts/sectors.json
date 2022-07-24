@@ -39,7 +39,7 @@
   }
   "NKRH": {
     "main": [],
-    "secondary": ["PFA3,PFA4,STG1,STG3,KNG1,KNG7,LBU1,BAD1,ADF18,KNG5,MAN3,MAN1,KNG4B,LFST_TMA,NKRL1,NKRL2"]
+    "secondary": ["PFA3,PFA4,STG1,STG3,KNG1,KNG7,LBU1,BAD1,ADF18,KNG5,MAN3,MAN1,KNG4B,NKRL1,NKRL2"]
   }
   "RUD": {
     "main": [],
