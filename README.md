@@ -1,7 +1,7 @@
 | **Sectors** | **Done** |
 |:-----------:|:--------:|
 | BAD         |     X    |
-| BOT         |          |
+| BOT         |     X    |
 | DKA         |          |
 | DKB         |     X    |
 | DUS         |          |
