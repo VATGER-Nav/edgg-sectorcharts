@@ -35,7 +35,7 @@
   }
   "NKRL": {
     "main": [],
-    "secondary": ["ADF18,PFA1,STG1,STG2,KNG1,KNG7,KNG5"]
+    "secondary": ["ADF18,PFA1,PFA3,NKRH1,STG1,STG2,KNG1,KNG7,KNG5"]
   }
   "NKRH": {
     "main": [],
