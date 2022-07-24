@@ -13,18 +13,18 @@
 | HMM         |          |
 | KIR         |     X    |
 | KNG         |     X    |
-| KTG         |          |
-| LBU         |          |
-| MAN         |          |
+| KTG         |     X    |
+| LBU         |     X    |
+| MAN         |     X    |
 | NOR         |          |
 | PADH        |          |
 | PADL        |          |
-| NRKH        |          |
-| NKRL        |          |
+| NRKH        |     X    |
+| NKRL        |     X    |
 | PFA         |          |
-| PSA         |          |
-| REU         |          |
-| RUD         |          |
+| PSA         |     X    |
+| REU         |     X    |
+| RUD         |     X    |
 | SIG         |     X    |
-| STG         |          |
+| STG         |     X    |
 | TAU         |     X    |
