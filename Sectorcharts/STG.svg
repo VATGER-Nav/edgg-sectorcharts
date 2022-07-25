@@ -27,8 +27,8 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="1.8164062"
-     inkscape:cx="265.35914"
-     inkscape:cy="249.94409"
+     inkscape:cx="265.35915"
+     inkscape:cy="205.90108"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -1820,13 +1820,10 @@
                id="text1975-7-3"
                y="50.954117"
                x="12.089098"
-               style="font-style:normal;font-weight:normal;font-size:6.08268px;line-height:1.25;font-family:sans-serif;display:inline;fill:#b00000;fill-opacity:1;stroke:none;stroke-width:0.152067"
+               style="font-style:normal;font-weight:normal;font-size:6.08268px;line-height:1.25;font-family:sans-serif;display:inline;fill:#b00000;fill-opacity:1;stroke:none;stroke-width:0.152067;-inkscape-font-specification:'sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-linecap:butt;stroke-linejoin:round"
                xml:space="preserve"><tspan
-                 style="fill:#b00000;fill-opacity:1;stroke-width:0.152067"
-                 y="50.954117"
-                 x="12.089098"
-                 id="tspan1973-9-3"
-                 sodipodi:role="line">Sektor Dinkelsbühl (EDGG_D_CTR)</tspan></text></g><text
+                 sodipodi:role="line"
+                 id="tspan75558">Sektor Stuttgart (EDDS_N_APP)</tspan></text></g><text
              id="text2003-6"
              y="105.4701"
              x="12.507091"
