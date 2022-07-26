@@ -1,3 +1,7 @@
+Export:
+inkscape --export-type="png" RUD.svg -D -d 300 -b WHITE
+
+
 | **Sectors** | **Done** |
 |:-----------:|:--------:|
 | BAD         |     X    |
