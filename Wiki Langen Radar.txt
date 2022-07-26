@@ -1,0 +1,556 @@
+{| class="wikitable" style="width: 100%;"
+|-
+! style="width: 20%;"| [[Centersektoren_EDFF | Sector Overview]]
+! style="width: 20%;"| [[RG_Frankfurt_-_Sector_Splits | Sector Splits]]
+! style="width: 20%;"| [[RG_Frankfurt_-_Langen_Radar | Langen Radar]]
+! style="width: 20%;"| [[RG_Frankfurt_-_Rhein Radar | Rhein Radar]]
+! style="width: 20%;"| [[RG_Frankfurt_-_Langen_Information | Langen Information]]
+|}
+
+= EBG 1: DUS, BOT =
+
+=== Sektor Bottrop ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector BOT.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Bottrop (BOT)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 119.100
+|-
+| <strong>Logon Callsign</strong> || EDDL_B_APP
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter 
+|}
+</div>
+</div>
+
+=== Sektor Düsseldorf Terminal ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector DUS.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Düsseldorf Terminal (DLA)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 128.550
+|-
+| <strong>Logon Callsign</strong> || EDDL_APP
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter 
+|}
+</div>
+</div>
+
+= EBG 2: BAD, LBU, MAN, NKRL, NKRH =
+
+=== Sektor Baden ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector BAD.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Baden (BAD)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 131.300
+|-
+| <strong>Logon Callsign</strong> || EDGG_B_CTR
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter 
+|}
+</div>
+</div>
+
+=== Sektor Luburg ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector LBU.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Luburg(LBU)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 127.050
+|-
+| <strong>Logon Callsign</strong> || EDGG_L_CTR
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter
+|}
+</div>
+</div>
+
+=== Sektor Main ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector MAN.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Main(MAN)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 132.150
+|-
+| <strong>Logon Callsign</strong> || EDGG_M_CTR
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter
+|}
+</div>
+</div>
+
+=== Sektor Neckar High ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector NKRH.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Neckar High(NKRH)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 127.500
+|-
+| <strong>Logon Callsign</strong> || EDGG_N_CTR
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter
+|}
+</div>
+</div>
+
+=== Sektor Neckar Low ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector NKRL.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Neckar Low(NKRL)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 129.350
+|-
+| <strong>Logon Callsign</strong> || EDFM_APP
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter
+|}
+</div>
+</div>
+
+= EBG 3: GED, GIN, HEF, SIG, TAU =
+
+=== Sektor Gedern ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector GED.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Gedern (GED)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 124.425
+|-
+| <strong>Logon Callsign</strong> || EDGG_G_CTR
+|-
+| <strong>Hauptfunktion</strong> || Frankfurt Inbounds aus der EDMM und EDWW FIR über KERAX vorstaffeln und an den DFN übergeben. Das RIMET und HILFE Window sind Bereiche im Luftraum die von Bremen und Rhein delegiert wurden um diese Inbounds effizienter zu staffeln. 
+|}
+</div>
+</div>
+
+=== Sektor Gießen ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector GIN.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Gießen (GIN)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 124.725
+|-
+| <strong>Logon Callsign</strong> || EDGG_J_CTR
+|-
+| <strong>Hauptfunktion</strong> || EDDF Outbounds EDDF via MARUN
+|}
+</div>
+</div>
+
+=== Sektor Hersfeld ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector HEF.png|none|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Hersfeld (HEF)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 127.725
+|-
+| <strong>Logon Callsign</strong> || EDGG_E_CTR
+|-
+| <strong>Hauptfunktion</strong> || Nicht Frankfurt (EDDF) Traffic um Sektor Giessen (GIN) und Sektor Gedern (GED) zu entlasten. 
+|}
+</div>
+</div>
+
+=== Sektor Siegen ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector SIG.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Siegen(SIG)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 124.900
+|-
+| <strong>Logon Callsign</strong> || EDGS_APP
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter
+|}
+</div>
+</div>
+
+=== Sektor Taunus ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector TAU.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Taunus(TAU)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 127.625
+|-
+| <strong>Logon Callsign</strong> || EDGG_T_CTR
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter
+|}
+</div>
+</div>
+
+= EBG 4: DKB, HAB, KNG, KTG, PSA =
+
+=== Sektor Dinkelsbühl ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector DKB.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Dinkelsbühl (DKB)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 125.200
+|-
+| <strong>Logon Callsign</strong> || EDGG_D_CTR
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter 
+|}
+</div>
+</div>
+
+=== Sektor Hammelburg ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector HAB.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Hammelburg (HAB)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 134.800
+|-
+| <strong>Logon Callsign</strong> || EDGG_A_CTR
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter 
+|}
+</div>
+</div>
+
+=== Sektor KNG ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector KNG.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor König (KNG)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 125.675
+|-
+| <strong>Logon Callsign</strong> || EDGG_Z_CTR
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter
+|}
+</div>
+</div>
+
+=== Sektor KTG ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector KTG.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Kitzingen (KTG)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 123.275
+|-
+| <strong>Logon Callsign</strong> || EDGG_K_CTR
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter
+|}
+</div>
+</div>
+
+== Sektor Spessart ==
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector PSA.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Spessart(PSA)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 125.400
+|-
+| <strong>Logon Callsign</strong> || EDGG_S_CTR
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter
+|}
+</div>
+</div>
+
+= EBG 5: EIF, KIR, PFA, RUD =
+
+=== Sektor Eifel ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector EIF.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Eifel
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 125.600
+|-
+| <strong>Logon Callsign</strong> || EDFH_APP
+|-
+| <strong>Hauptfunktion</strong> || EDFH, ETOU, ETAD In- und Outbounds
+|}
+</div>
+</div>
+
+=== Sektor Kirn ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector KIR.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Kirn (KIR)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 124.375
+|-
+| <strong>Logon Callsign</strong> || EDGG_I_CTR
+|-
+| <strong>Hauptfunktion</strong> || EDDF Outbounds via SOBRA, ULKIG
+|}
+</div>
+</div>
+
+=== Sektor Pfalz ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector PFA.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Pfalz(PFA)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 129.675
+|-
+| <strong>Logon Callsign</strong> || EDDR_APP
+|-
+| <strong>Hauptfunktion</strong> || EDDR, ETAR In- und Outbounds, Durchflüge nach ELLX
+|}
+</div>
+</div>
+
+=== Sektor Rüdesheim ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector RUD.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Rüdesheim (RUD)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 124.475
+|-
+| <strong>Logon Callsign</strong> || EDGG_R_CTR
+|-
+| <strong>Hauptfunktion</strong> || Frankfurt (EDDF) Inbounds über UNOKO
+|}
+</div>
+</div>
+
+= EBG 6: HMM, PADH, PADL =
+
+=== Sektor Hamm ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector HMM.png|none|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Hamm (HAM)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 129.300
+|-
+| <strong>Logon Callsign</strong> || EDDG_APP
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter
+|}
+</div>
+</div>
+
+=== Sektor Paderborn High ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector PADH.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Paderborn High(PADH)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 135.650
+|-
+| <strong>Logon Callsign</strong> || EDGG_P_CTR
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter
+|}
+</div>
+</div>
+
+=== Sektor Paderborn Low ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector PADL.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Paderborn Low(PADL)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 125.225
+|-
+| <strong>Logon Callsign</strong> || EDLP_APP
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter
+|}
+</div>
+</div>
+
+= EBG 7: DKA, NOR =
+
+=== Sektor Köln Arrival ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector DKA.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Köln Arrival (DKA)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 135.350
+|-
+| <strong>Logon Callsign</strong> || EDDK_APP
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter 
+|}
+</div>
+</div>
+
+=== Sektor Nörvenich ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector NOR.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Nörvenich(NOR)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 127.375
+|-
+| <strong>Logon Callsign</strong> || EDDK_N_APP
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter
+|}
+</div>
+</div>
+
+= EBG 8: REU, STG =
+
+=== Sektor Reutlingen ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector REU.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Reutlingen (REU)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 119.200
+|-
+| <strong>Logon Callsign</strong> || EDDS_S_APP
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter
+|}
+</div>
+</div>
+
+=== Sektor Stuttgart ===
+<div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
+<div>
+[[Datei:EDGG Sector STG.png|550px]]
+</div>
+<div>
+{| class="wikitable" style="float:right; vertical-align: top; width:420px"
+|-
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Stuttgart(STG)
+|-
+| style="width: 35%" | <strong>Frequenz</strong> || 125.050
+|-
+| <strong>Logon Callsign</strong> || EDDS_N_APP
+|-
+| <strong>Hauptfunktion</strong> || Platzhalter
+|}
+</div>
+</div>
