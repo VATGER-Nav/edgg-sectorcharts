@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="460.8pt"
    height="345.6pt"
    viewBox="0 0 460.8 345.6"
    version="1.1"
    id="svg863"
    sodipodi:docname="HAB.svg"
-   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,16 +25,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1855"
-     inkscape:window-height="1283"
+     inkscape:window-height="1006"
      id="namedview865"
      showgrid="false"
-     inkscape:zoom="2.5503722"
-     inkscape:cx="277.75551"
-     inkscape:cy="200.14096"
+     inkscape:zoom="1.5682673"
+     inkscape:cx="190.33745"
+     inkscape:cy="216.48095"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="axes_1" />
+     inkscape:current-layer="line2d_9"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt" />
   <metadata
      id="metadata2">
     <rdf:RDF>
@@ -244,11 +248,11 @@
       <g
          id="line2d_9">
         <path
-           d="M 454.09011,42.284825 461.8,41.645709 m -166.15,178.690631 -0.313,-6.35189 -1.25064,-25.40749 -0.86555,-17.6946 -0.28556,-6.44355 -1.36467,-27.35771 -0.62517,-12.79458 1.99928,-3.96935 14.09919,-28.078517 4.10148,-8.088897 2.62749,-5.269231 1.29219,-1.952591 M 454.09011,42.284825 461.8,41.645709 m 0,202.460451 -4.32266,3.08167 m -118.45465,-43.25003 -27.65295,-45.81255 -20.42433,-33.83873 1.99928,-3.96935 14.09919,-28.078517 4.10148,-8.088897 2.62749,-5.269231 1.29219,-1.952591"
+           d="m 295.65,220.33634 -0.313,-6.35189 -1.25064,-25.40749 -0.86555,-17.6946 -0.28556,-6.44355 -1.36467,-27.35771 -0.62517,-12.79458 1.99928,-3.96935 14.09919,-28.078517 4.10148,-8.088897 2.62749,-5.269231 1.29219,-1.952591 m 23.95765,127.009866 -27.65295,-45.81255 -20.42433,-33.83873 1.99928,-3.96935 14.09919,-28.078517 4.10148,-8.088897 2.62749,-5.269231 1.29219,-1.952591"
            clip-path="url(#p5e454f2814)"
            style="fill:none;stroke:#8f8f8f;stroke-width:0.2;stroke-linecap:square"
            id="path59"
-           sodipodi:nodetypes="cccccccccccccccccccccccccc" />
+           sodipodi:nodetypes="cccccccccccccccccccc" />
       </g>
       <g
          id="line2d_10">

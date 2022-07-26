@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="460.8pt"
    height="345.6pt"
    viewBox="0 0 460.8 345.6"
    version="1.1"
    id="svg1872"
-   sodipodi:docname="FFM-FUL-NTM-SLN-TGO-WUR_2.svg"
-   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="EDUU.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    inkscape:export-filename="C:\Users\Felix\Documents\VATSIM\rgnav\Sectorcharts\EDUU.png"
    inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300">
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -28,19 +28,23 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1537"
-     inkscape:window-height="1276"
+     inkscape:window-height="1006"
      id="namedview1874"
      showgrid="false"
      inkscape:zoom="1.2751861"
-     inkscape:cx="224.3611"
-     inkscape:cy="264.55611"
-     inkscape:window-x="1795"
-     inkscape:window-y="35"
+     inkscape:cx="224.67309"
+     inkscape:cy="264.66725"
+     inkscape:window-x="375"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg1872"
+     inkscape:current-layer="figure_1"
      inkscape:document-rotation="0"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt" />
   <metadata
      id="metadata2">
     <rdf:RDF>
@@ -187,13 +191,6 @@
   </defs>
   <g
      id="figure_1">
-    <g
-       id="patch_1">
-      <path
-         d="M 0 345.6  L 460.8 345.6  L 460.8 0  L 0 0  z "
-         style="fill: #ffffff"
-         id="path8" />
-    </g>
     <g
        id="axes_1">
       <g
@@ -6342,7 +6339,7 @@
   <text
      xml:space="preserve"
      id="text9314"
-     style="line-height:1.25;font-family:'Segoe UI';font-size:30.0000003px;-inkscape-font-specification:'Segoe UI';white-space:pre;shape-inside:url(#rect9316);" />
+     style="line-height:1.25;font-family:'Segoe UI';font-size:30.0000003px;-inkscape-font-specification:'Segoe UI';white-space:pre;shape-inside:url(#rect9316)" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:3.49px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.204662"
