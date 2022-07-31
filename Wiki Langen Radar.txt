@@ -1,15 +1,24 @@
 {| class="wikitable" style="width: 100%;"
 |-
 ! style="width: 20%;"| [[Centersektoren_EDFF | Sector Overview]]
-! style="width: 20%;"| [[RG_Frankfurt_-_Sector_Splits | Sector Splits]]
-! style="width: 20%;"| [[RG_Frankfurt_-_Langen_Radar | Langen Radar]]
-! style="width: 20%;"| [[RG_Frankfurt_-_Rhein Radar | Rhein Radar]]
+! style="width: 20%;"| [[RG_Frankfurt_-_Sector_Splits | Sector Splits EDFF]]
+! style="width: 20%;"| [[Overview_-_Langen_Radar_EDGG | Langen Radar]]
+! style="width: 20%;"| [[Overview_-_Rhein_Radar_EDUU | Rhein Radar]]
 ! style="width: 20%;"| [[RG_Frankfurt_-_Langen_Information | Langen Information]]
 |}
 
-= EBG 1: DUS, BOT =
+{| class="wikitable" style="width: 100%;"
+|-
+! style="width: 33%;"| [https://en.wiki.vatsim-germany.org/EDFF_CTR_SOP SOP EDFF]
+! style="width: 33%;"| [[Centersektoren_EDLL | SOP EDLL]]
+! style="width: 33%;"| [[LOAs | LoA]]
+|}
 
-=== Sektor Bottrop ===
+
+= EBG 1: DUS - BOT =
+EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to manage in and outbound traffic from Düsseldorf airport including some overflights to the Netherlands and Belgium.
+ 
+== Sector Bottrop ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector BOT.png|550px]]
@@ -23,12 +32,12 @@
 |-
 | <strong>Logon Callsign</strong> || EDDL_B_APP
 |-
-| <strong>Hauptfunktion</strong> || Platzhalter 
+| <strong>Hauptfunktion</strong> || EDDL-Arrivals via TEBRO to PISAP from EHAA; EDDL-Departures via MODRU, NETEX, MEVEL and SONEB; EDLV and ETNG Traffic; EHEH-Departure via VELNI, EHEH-Arrivals via ROTEK
 |}
 </div>
 </div>
 
-=== Sektor Düsseldorf Terminal ===
+== Sector Düsseldorf Terminal ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector DUS.png|550px]]
@@ -42,14 +51,14 @@
 |-
 | <strong>Logon Callsign</strong> || EDDL_APP
 |-
-| <strong>Hauptfunktion</strong> || Platzhalter 
+| <strong>Hauptfunktion</strong> || EDDL-Departures and Arrivals; EDLN Traffic 
 |}
 </div>
 </div>
 
-= EBG 2: BAD, LBU, MAN, NKRL, NKRH =
+= EBG 2: BAD - LBU - MAN - NKRL - NKRH =
 
-=== Sektor Baden ===
+== Sector Baden ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector BAD.png|550px]]
@@ -63,12 +72,12 @@
 |-
 | <strong>Logon Callsign</strong> || EDGG_B_CTR
 |-
-| <strong>Hauptfunktion</strong> || Platzhalter 
+| <strong>Hauptfunktion</strong> || EDDF-Departures via ANEKI; Upper-Lower Transition for EDDF-Arrivals via EMPAX; EDDS-Departures; LSZH and LFST Traffic; 
 |}
 </div>
 </div>
 
-=== Sektor Luburg ===
+== Sector Luburg ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector LBU.png|550px]]
@@ -82,12 +91,12 @@
 |-
 | <strong>Logon Callsign</strong> || EDGG_L_CTR
 |-
-| <strong>Hauptfunktion</strong> || Platzhalter
+| <strong>Hauptfunktion</strong> || EDDF-Arrivals via EMPAX; EDDS-Departures
 |}
 </div>
 </div>
 
-=== Sektor Main ===
+== Sector Main ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector MAN.png|550px]]
@@ -101,12 +110,12 @@
 |-
 | <strong>Logon Callsign</strong> || EDGG_M_CTR
 |-
-| <strong>Hauptfunktion</strong> || Platzhalter
+| <strong>Hauptfunktion</strong> || Primarily crossing Traffic via Airway L984; EDFH-Inbounds
 |}
 </div>
 </div>
 
-=== Sektor Neckar High ===
+== Sector Neckar High ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector NKRH.png|550px]]
@@ -120,12 +129,12 @@
 |-
 | <strong>Logon Callsign</strong> || EDGG_N_CTR
 |-
-| <strong>Hauptfunktion</strong> || Platzhalter
+| <strong>Hauptfunktion</strong> || EDDF-Departures via ANEKI; Upper-Lower Transition for EDDK-Inbounds; EDDS-Departures
 |}
 </div>
 </div>
 
-=== Sektor Neckar Low ===
+== Sector Neckar Low ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector NKRL.png|550px]]
@@ -139,14 +148,14 @@
 |-
 | <strong>Logon Callsign</strong> || EDFM_APP
 |-
-| <strong>Hauptfunktion</strong> || Platzhalter
+| <strong>Hauptfunktion</strong> || Only EDFM-Traffic
 |}
 </div>
 </div>
 
-= EBG 3: GED, GIN, HEF, SIG, TAU =
+= EBG 3: GED - GIN - HEF - SIG - TAU =
 
-=== Sektor Gedern ===
+== Sector Gedern ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector GED.png|550px]]
@@ -160,12 +169,12 @@
 |-
 | <strong>Logon Callsign</strong> || EDGG_G_CTR
 |-
-| <strong>Hauptfunktion</strong> || Frankfurt Inbounds aus der EDMM und EDWW FIR über KERAX vorstaffeln und an den DFN übergeben. Das RIMET und HILFE Window sind Bereiche im Luftraum die von Bremen und Rhein delegiert wurden um diese Inbounds effizienter zu staffeln. 
+| <strong>Hauptfunktion</strong> || EDDF-Arrivals routing via RIMET, TAMEB and VAGAP to KERAX from EDYY, EDWW and EDMM
 |}
 </div>
 </div>
 
-=== Sektor Gießen ===
+== Sector Gießen ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector GIN.png|550px]]
@@ -179,12 +188,12 @@
 |-
 | <strong>Logon Callsign</strong> || EDGG_J_CTR
 |-
-| <strong>Hauptfunktion</strong> || EDDF Outbounds EDDF via MARUN
+| <strong>Hauptfunktion</strong> || EDDF-Departures via MARUN and TOBAK; EDLP-Departures via GISDI; EDLW- and EDLP-Arrivals via SODNA and ARPEG
 |}
 </div>
 </div>
 
-=== Sektor Hersfeld ===
+== Sector Hersfeld ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector HEF.png|none|550px]]
@@ -198,12 +207,12 @@
 |-
 | <strong>Logon Callsign</strong> || EDGG_E_CTR
 |-
-| <strong>Hauptfunktion</strong> || Nicht Frankfurt (EDDF) Traffic um Sektor Giessen (GIN) und Sektor Gedern (GED) zu entlasten. 
+| <strong>Hauptfunktion</strong> || EDDF-Departures via TOBAK from GIN; EDDF-Arrivals via NATSU to KERAX from EDWW; Upper-Lower Transition for EDLP, EDLW and EDDK via DEMPA, GEFDA and VELES; EDDV-Arrivals via ELNAT
 |}
 </div>
 </div>
 
-=== Sektor Siegen ===
+== Sector Siegen ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector SIG.png|550px]]
@@ -217,12 +226,12 @@
 |-
 | <strong>Logon Callsign</strong> || EDGS_APP
 |-
-| <strong>Hauptfunktion</strong> || Platzhalter
+| <strong>Hauptfunktion</strong> || Departures from DUS- and DKA-TMA via KUMIK and DODEN; EDLW- and EDDG-Departures via GMH; EDGS-Traffic
 |}
 </div>
 </div>
 
-=== Sektor Taunus ===
+== Sector Taunus ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector TAU.png|550px]]
@@ -236,14 +245,14 @@
 |-
 | <strong>Logon Callsign</strong> || EDGG_T_CTR
 |-
-| <strong>Hauptfunktion</strong> || Platzhalter
+| <strong>Hauptfunktion</strong> || EDDF-Departures via OBOKA; EDDF-Arrivals via ROLIS, additional Traffic via ROLIS to ETAR, ETAD and EDFH; EDDK-Inbounds via GULKO
 |}
 </div>
 </div>
 
-= EBG 4: DKB, HAB, KNG, KTG, PSA =
+= EBG 4: DKB - HAB - KNG - KTG - PSA =
 
-=== Sektor Dinkelsbühl ===
+== Sector Dinkelsbühl ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector DKB.png|550px]]
@@ -257,12 +266,12 @@
 |-
 | <strong>Logon Callsign</strong> || EDGG_D_CTR
 |-
-| <strong>Hauptfunktion</strong> || Platzhalter 
+| <strong>Hauptfunktion</strong> || EDDF-Departures via CINDY to NOMBO; EDDN-Departures via DKB; EDDN-Arrivals via LETKU; EDDS-Departures via GEBNO and DKB; EDDS-Arrivals
 |}
 </div>
 </div>
 
-=== Sektor Hammelburg ===
+== Sector Hammelburg ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector HAB.png|550px]]
@@ -276,12 +285,12 @@
 |-
 | <strong>Logon Callsign</strong> || EDGG_A_CTR
 |-
-| <strong>Hauptfunktion</strong> || Platzhalter 
+| <strong>Hauptfunktion</strong> || EDDF-Departures via SULUS (only 07-config); Transition Upper-Lower for EDDN and EDDS 
 |}
 </div>
 </div>
 
-=== Sektor König ===
+== Sector König ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector KNG.png|550px]]
@@ -295,12 +304,12 @@
 |-
 | <strong>Logon Callsign</strong> || EDGG_Z_CTR
 |-
-| <strong>Hauptfunktion</strong> || Platzhalter
+| <strong>Hauptfunktion</strong> || EDDF-Departures via CINDY and SULUS (25 config); EDDF-Arrivals via EMPAX from BAD
 |}
 </div>
 </div>
 
-=== Sektor Kitzingen ===
+== Sector Kitzingen ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector KTG.png|550px]]
@@ -314,12 +323,12 @@
 |-
 | <strong>Logon Callsign</strong> || EDGG_K_CTR
 |-
-| <strong>Hauptfunktion</strong> || Platzhalter
+| <strong>Hauptfunktion</strong> || EDDF-Departures via SULUS (25-config); EDDF-Arrival via ASPAT to FAWUR; EDDS-Departures; EDDM-Departures with bad Climbrate 
 |}
 </div>
 </div>
 
-== Sektor Spessart ==
+== Sector Spessart ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector PSA.png|550px]]
@@ -333,14 +342,14 @@
 |-
 | <strong>Logon Callsign</strong> || EDGG_S_CTR
 |-
-| <strong>Hauptfunktion</strong> || Platzhalter
+| <strong>Hauptfunktion</strong> || Only active and used for holdings over SPESA
 |}
 </div>
 </div>
 
-= EBG 5: EIF, KIR, PFA, RUD =
+= EBG 5: EIF - KIR - PFA - RUD =
 
-=== Sektor Eifel ===
+== Sector Eifel ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector EIF.png|550px]]
@@ -354,12 +363,12 @@
 |-
 | <strong>Logon Callsign</strong> || EDFH_APP
 |-
-| <strong>Hauptfunktion</strong> || EDFH, ETOU, ETAD In- und Outbounds
+| <strong>Hauptfunktion</strong> || ETSB-, EDFH-, ETAD- and ETOU-Traffic
 |}
 </div>
 </div>
 
-=== Sektor Kirn ===
+== Sector Kirn ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector KIR.png|550px]]
@@ -373,12 +382,12 @@
 |-
 | <strong>Logon Callsign</strong> || EDGG_I_CTR
 |-
-| <strong>Hauptfunktion</strong> || EDDF Outbounds via SOBRA, ULKIG
+| <strong>Hauptfunktion</strong> || EDDF-Departures via SOBRA and ULKIG; EDFH-Arrivals to EIF; EBBR-, ELLX- and EBLG-Departures and Arrivals
 |}
 </div>
 </div>
 
-=== Sektor Pfalz ===
+== Sector Pfalz ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector PFA.png|550px]]
@@ -392,12 +401,12 @@
 |-
 | <strong>Logon Callsign</strong> || EDDR_APP
 |-
-| <strong>Hauptfunktion</strong> || EDDR, ETAR In- und Outbounds, Durchflüge nach ELLX
+| <strong>Hauptfunktion</strong> || EDDR- and ETAR-Traffic; Big restricted military airspace in area
 |}
 </div>
 </div>
 
-=== Sektor Rüdesheim ===
+== Sector Rüdesheim ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector RUD.png|550px]]
@@ -411,14 +420,14 @@
 |-
 | <strong>Logon Callsign</strong> || EDGG_R_CTR
 |-
-| <strong>Hauptfunktion</strong> || Frankfurt (EDDF) Inbounds über UNOKO
+| <strong>Hauptfunktion</strong> || Upper-Lower Transition for EDDF-Arrivals via UNOKO
 |}
 </div>
 </div>
 
-= EBG 6: HMM, PADH, PADL =
+= EBG 6: HMM - PADH - PADL =
 
-=== Sektor Hamm ===
+== Sector Hamm ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector HMM.png|none|550px]]
@@ -432,12 +441,12 @@
 |-
 | <strong>Logon Callsign</strong> || EDDG_APP
 |-
-| <strong>Hauptfunktion</strong> || Platzhalter
+| <strong>Hauptfunktion</strong> || EDDL-Departures via MEVEL; EDDL-Arrivals via HALME; EHAM-Outbounds with bad climb rate; EHAM-Inbounds in lower airspace; EHAH-Dep/Arr; EDDG-Traffic; EDDK-Arrivals via SONEB to GMH; EDLW- and EDLP-Arrivals via OSN from EDWW; EDLW- and EDLP-Departures 
 |}
 </div>
 </div>
 
-=== Sektor Paderborn High ===
+== Sector Paderborn High ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector PADH.png|550px]]
@@ -451,12 +460,12 @@
 |-
 | <strong>Logon Callsign</strong> || EDGG_P_CTR
 |-
-| <strong>Hauptfunktion</strong> || Platzhalter
+| <strong>Hauptfunktion</strong> || EDDL-Arrivals via DOMUX; EDDL-Departures via NUDGO; EDDK-Departures via PODIP; EDDK-Arrivals via KOPAG; EDLW- and EDDG-Departures via GMH; EDDF-Departures via MARUNt to ARPEG and EKSAK
 |}
 </div>
 </div>
 
-=== Sektor Paderborn Low ===
+== Sector Paderborn Low ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector PADL.png|550px]]
@@ -470,14 +479,14 @@
 |-
 | <strong>Logon Callsign</strong> || EDLP_APP
 |-
-| <strong>Hauptfunktion</strong> || Platzhalter
+| <strong>Hauptfunktion</strong> || EDLW- and EDLP-Traffic; EDDK-Arrivals via BATEB to ERNEP
 |}
 </div>
 </div>
 
-= EBG 7: DKA, NOR =
+= EBG 7: DKA - NOR =
 
-=== Sektor Köln Arrival ===
+== Sector Köln Arrival ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector DKA.png|550px]]
@@ -491,12 +500,12 @@
 |-
 | <strong>Logon Callsign</strong> || EDDK_APP
 |-
-| <strong>Hauptfunktion</strong> || Platzhalter 
+| <strong>Hauptfunktion</strong> || EDDK- and ETNN-Traffic 
 |}
 </div>
 </div>
 
-=== Sektor Nörvenich ===
+== Sector Nörvenich ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector NOR.png|550px]]
@@ -510,14 +519,14 @@
 |-
 | <strong>Logon Callsign</strong> || EDDK_N_APP
 |-
-| <strong>Hauptfunktion</strong> || Platzhalter
+| <strong>Hauptfunktion</strong> || EDDF-Departures via OBOKA; EDDL-Arrivals via BIKMU; Upper-Lower Transition for EBBR-Inbounds via ELDAR to AGENI and UMUPU to ASDAK; EBBR- and ELLX-Departures; EDLW- and EDDK-Departures via NAVAK to EBBU
 |}
 </div>
 </div>
 
-= EBG 8: REU, STG =
+= EBG 8: REU - STG =
 
-=== Sektor Reutlingen ===
+== Sector Reutlingen ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector REU.png|550px]]
@@ -536,7 +545,7 @@
 </div>
 </div>
 
-=== Sektor Stuttgart ===
+== Sector Stuttgart ==
 <div style="display: flex; flex-direction: row; flex-wrap:wrap ; justify-content: space-between;">
 <div>
 [[Datei:EDGG Sector STG.png|550px]]

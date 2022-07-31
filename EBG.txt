@@ -9,31 +9,39 @@
 10: ADF
 
 
-TAU: OBOKA-Dep, ROLIS-Inbounds -> EDDF, ETAR, ETAD, EDFH, EDDK-Inbounds über GULKO
-SIG: DUS-TMA-Dep: DODEN, KUMIK; EDDK-Dep: KUMIK; EDLW, EDDG-Dep: GMH, EDGS
+
+
+BOT: EDDL-Arr TEBRO-PISAP, EDLV-Dep/Out, ETNG-Dep/Out EDDL-Dep MODRU, NETEX, MEVEL, SONEB, EHEH-Dep/Arr VELNI
+DUS: EDDL-Terminal + EDLN
+
+BAD: LSZH-Dep/Arr, Aneki-Dep, EDDS-Dep, LFST-Arr, EMPAX Upper-Lower-Trans
+LBU: EMPAX-Inbounds nach EDDF, EDDS-Dep
+MAN: Crossing-Traffic, EDFH-Inbounds
+NKRH: EDDF-Dep ANEKI, EDDK-Inbounds Upper-Lower-Trans, EDDS-Dep Nord
+NKRL: EDFM-Dep/Arr
+
+GED: EDDF-Inb von EDYY, EDWW, EDMM: RIMET, TAMEB, VAGAP -> KERAX
 GIN: EDDF MARUN/TOBAK-Dep, EDLP-Dep
 HEF: EDDF-Tobak-Dep vom GIN, EDDF-Inb von EDWW über NATSU-KERAX
 	UPPER>LOWER-Trans > EDLP, EDLW, EDDK: DEMPA, GEFDA, VELES
 				EDDV Inbounds
-GED: EDDF-Inb von EDYY, EDWW, EDMM: RIMET, TAMEB, VAGAP -> KERAX
+SIG: DUS-TMA-Dep: DODEN, KUMIK; EDDK-Dep: KUMIK; EDLW, EDDG-Dep: GMH, EDGS
+TAU: OBOKA-Dep, ROLIS-Inbounds -> EDDF, ETAR, ETAD, EDFH, EDDK-Inbounds über GULKO
+
+DKB: EDDF-Outbounds CINDY->NOMBO, EDDN/EDDS-Dep/Arr
+HAB: EDDF-Dep Sulus(07), Trans-Upper-Lower EDDN/EDDS
+KNG: EDDF-Outbounds Cindy, Sulus(25), EMPAX-Arrival von BAD
+KTG: EDDF-Dep Sulus(18/25), EDDF-Arr FAWUR/ASPAT, EDDS-Dep NE, EDDM-Dep scheiß climb
+PSA: Holdings SPESA
+
+EIF: ETSB-Dep/Arr, EDFH-Dep/Arr, ETAD-Dep/Arr, ETOU-Dep/Arr, 
+KIR: EDDF-Outbounds SOBRA/ULGIK, EDFH->Eifel, EBBR/ELLX/EBLG-Dep/Out
+PFA: EDDR-Dep/Arr, ETAR-Dep/Arr
+RUD: EDDF-UNOKO Arrivals
+
 HMM: EDDL-Inb/Out MEVEL/HALME, maybe EHAM-Outbounds, EHAH-In/Out, EDDG, EDDK-Inb SONEB-GMH, OSN->EDLW/EDLP an PADL, LW/LP Outbounds
-PADH: DOMUX-DUS-Inbounds, EDDK-Dep/Out KOPAG/PODEP, EDLW/EDDG-Dep-GMH, EDDF-Out MARUN/ARPEG/EXACK, DUS-DEP NUDGO
-PADL: EDLW/EDLP-In/Out / EDDK-In BATEP/ERNEP
-BOT: EDDL-Arr TEBRO-PISAP, EDLV-Dep/Out, ETNG-Dep/Out EDDL-Dep MODRU, NETEX, MEVEL, SONEB, EHEH-Dep/Arr VELNI
-DUS: EDDL-Terminal + EDLN
+PADH: DOMUX-DUS-Inbounds, EDDK-Dep/Out KOPAG/PODEP, EDLW/EDDG-Dep-GMH, EDDF-Out MARUN/ARPEG/EKSAK, DUS-DEP NUDGO
+PADL: EDLW/EDLP-In/Out / EDDK-In BATEB/ERNEP
+
 DKA: EDDK-Dep/Arr, ETNN-Dep/Arr
 NOR: EDDF-Oboka, EDDL-Bikmu, EBBR-UMUPU-ASDAK + AGENI, EBBR/ELLX-Outbounds, Transition ELDAR, EDLW/EDDK-Dep NAVAK
-EIF: ETSB-Dep/Arr, EDFH-Dep/Arr, ETAD-Dep/Arr, ETOU-Dep/Arr, 
-RUD: EDDF-UNOKO Arrivals
-PFA: EDDR-Dep/Arr, ETAR-Dep/Arr
-KIR: EDDF-Outbounds SOBRA/ULGIK, EDFH->Eifel, EBBR/ELLX/EBLG-Dep/Out
-DKB: EDDF-Outbounds CINDY->NOMBO, EDDN/EDDS-Dep/Arr
-KNG: EDDF-Outbounds Cindy, Sulus(25), EMPAX-Arrival von BAD
-PSA: Holdings SPESA
-HAB: EDDF-Dep Sulus(07), Trans-Upper-Lower EDDN/EDDS
-KTG: EDDF-Dep Sulus(18/25), EDDF-Arr FAWUR/ASPAT, EDDS-Dep NE, EDDM-Dep scheiß climb
-BAD: LSZH-Dep/Arr, Aneki-Dep, EDDS-Dep, LFST-Arr, EMPAX Upper-Lower-Trans
-NKRL: EDFM-Dep/Arr
-NKRH: EDDF-Dep ANEKI, EDDK-Inbounds Upper-Lower-Trans, EDDS-Dep Nord
-MAN: Crossing-Traffic, EDFH-Inbounds
-LBU: EMPAX-Inbounds nach EDDF
