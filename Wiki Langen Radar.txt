@@ -70,7 +70,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 131.300
 |-
-| <strong>Logon Callsign</strong> || EDGG_B_CTR
+| <strong>Logon Callsign</strong> || EDGG_BAD_CTR
 |-
 | <strong>Hauptfunktion</strong> || EDDF-Departures via ANEKI; Upper-Lower Transition for EDDF-Arrivals via EMPAX; EDDS-Departures; LSZH and LFST Traffic; 
 |}
@@ -89,7 +89,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 127.050
 |-
-| <strong>Logon Callsign</strong> || EDGG_L_CTR
+| <strong>Logon Callsign</strong> || EDGG_LBU_CTR
 |-
 | <strong>Hauptfunktion</strong> || EDDF-Arrivals via EMPAX; EDDS-Departures
 |}
@@ -108,7 +108,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 132.150
 |-
-| <strong>Logon Callsign</strong> || EDGG_M_CTR
+| <strong>Logon Callsign</strong> || EDGG_MAN_CTR
 |-
 | <strong>Hauptfunktion</strong> || Primarily crossing Traffic via Airway L984; EDFH-Inbounds
 |}
@@ -127,7 +127,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 127.500
 |-
-| <strong>Logon Callsign</strong> || EDGG_N_CTR
+| <strong>Logon Callsign</strong> || EDGG_NKH_CTR
 |-
 | <strong>Hauptfunktion</strong> || EDDF-Departures via ANEKI; Upper-Lower Transition for EDDK-Inbounds; EDDS-Departures
 |}
@@ -146,7 +146,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 129.350
 |-
-| <strong>Logon Callsign</strong> || EDFM_APP
+| <strong>Logon Callsign</strong> || EDFM_NKL_APP
 |-
 | <strong>Hauptfunktion</strong> || Only EDFM-Traffic
 |}
@@ -167,7 +167,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 124.425
 |-
-| <strong>Logon Callsign</strong> || EDGG_G_CTR
+| <strong>Logon Callsign</strong> || EDGG_GED_CTR
 |-
 | <strong>Hauptfunktion</strong> || EDDF-Arrivals routing via RIMET, TAMEB and VAGAP to KERAX from EDYY, EDWW and EDMM
 |}
@@ -186,7 +186,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 124.725
 |-
-| <strong>Logon Callsign</strong> || EDGG_J_CTR
+| <strong>Logon Callsign</strong> || EDGG_GIN_CTR
 |-
 | <strong>Hauptfunktion</strong> || EDDF-Departures via MARUN and TOBAK; EDLP-Departures via GISDI; EDLW- and EDLP-Arrivals via SODNA and ARPEG
 |}
@@ -205,7 +205,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 127.725
 |-
-| <strong>Logon Callsign</strong> || EDGG_E_CTR
+| <strong>Logon Callsign</strong> || EDGG_HEF_CTR
 |-
 | <strong>Hauptfunktion</strong> || EDDF-Departures via TOBAK from GIN; EDDF-Arrivals via NATSU to KERAX from EDWW; Upper-Lower Transition for EDLP, EDLW and EDDK via DEMPA, GEFDA and VELES; EDDV-Arrivals via ELNAT
 |}
@@ -224,7 +224,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 124.900
 |-
-| <strong>Logon Callsign</strong> || EDGS_APP
+| <strong>Logon Callsign</strong> || EDGG_SIG_CTR
 |-
 | <strong>Hauptfunktion</strong> || Departures from DUS- and DKA-TMA via KUMIK and DODEN; EDLW- and EDDG-Departures via GMH; EDGS-Traffic
 |}
@@ -243,7 +243,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 127.625
 |-
-| <strong>Logon Callsign</strong> || EDGG_T_CTR
+| <strong>Logon Callsign</strong> || EDGG_TAU_CTR
 |-
 | <strong>Hauptfunktion</strong> || EDDF-Departures via OBOKA; EDDF-Arrivals via ROLIS, additional Traffic via ROLIS to ETAR, ETAD and EDFH; EDDK-Inbounds via GULKO
 |}
@@ -264,7 +264,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 125.200
 |-
-| <strong>Logon Callsign</strong> || EDGG_D_CTR
+| <strong>Logon Callsign</strong> || EDGG_DKB_CTR
 |-
 | <strong>Hauptfunktion</strong> || EDDF-Departures via CINDY to NOMBO; EDDN-Departures via DKB; EDDN-Arrivals via LETKU; EDDS-Departures via GEBNO and DKB; EDDS-Arrivals
 |}
@@ -283,7 +283,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 134.800
 |-
-| <strong>Logon Callsign</strong> || EDGG_A_CTR
+| <strong>Logon Callsign</strong> || EDGG_HAB_CTR
 |-
 | <strong>Hauptfunktion</strong> || EDDF-Departures via SULUS (only 07-config); Transition Upper-Lower for EDDN and EDDS 
 |}
@@ -302,7 +302,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 125.675
 |-
-| <strong>Logon Callsign</strong> || EDGG_Z_CTR
+| <strong>Logon Callsign</strong> || EDGG_KNG_CTR
 |-
 | <strong>Hauptfunktion</strong> || EDDF-Departures via CINDY and SULUS (25 config); EDDF-Arrivals via EMPAX from BAD
 |}
@@ -321,7 +321,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 123.275
 |-
-| <strong>Logon Callsign</strong> || EDGG_K_CTR
+| <strong>Logon Callsign</strong> || EDGG_KTG_CTR
 |-
 | <strong>Hauptfunktion</strong> || EDDF-Departures via SULUS (25-config); EDDF-Arrival via ASPAT to FAWUR; EDDS-Departures; EDDM-Departures with bad Climbrate 
 |}
@@ -340,7 +340,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 125.400
 |-
-| <strong>Logon Callsign</strong> || EDGG_S_CTR
+| <strong>Logon Callsign</strong> || EDGG_PSA_CTR
 |-
 | <strong>Hauptfunktion</strong> || Only active and used for holdings over SPESA
 |}
@@ -361,7 +361,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 125.600
 |-
-| <strong>Logon Callsign</strong> || EDFH_APP
+| <strong>Logon Callsign</strong> || EDFH_EIF_APP
 |-
 | <strong>Hauptfunktion</strong> || ETSB-, EDFH-, ETAD- and ETOU-Traffic
 |}
@@ -380,7 +380,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 124.375
 |-
-| <strong>Logon Callsign</strong> || EDGG_I_CTR
+| <strong>Logon Callsign</strong> || EDGG_KIR_CTR
 |-
 | <strong>Hauptfunktion</strong> || EDDF-Departures via SOBRA and ULKIG; EDFH-Arrivals to EIF; EBBR-, ELLX- and EBLG-Departures and Arrivals
 |}
@@ -399,7 +399,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 129.675
 |-
-| <strong>Logon Callsign</strong> || EDDR_APP
+| <strong>Logon Callsign</strong> || EDDR_PFA_APP
 |-
 | <strong>Hauptfunktion</strong> || EDDR- and ETAR-Traffic; Big restricted military airspace in area
 |}
@@ -418,7 +418,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 124.475
 |-
-| <strong>Logon Callsign</strong> || EDGG_R_CTR
+| <strong>Logon Callsign</strong> || EDGG_RUD_CTR
 |-
 | <strong>Hauptfunktion</strong> || Upper-Lower Transition for EDDF-Arrivals via UNOKO
 |}
@@ -435,7 +435,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 <div>
 {| class="wikitable" style="float:right; vertical-align: top; width:420px"
 |-
-!colspan="2" style="background-color:#2D338A; color:white" | Sektor Hamm (HAM)
+!colspan="2" style="background-color:#2D338A; color:white" | Sektor Hamm (HMM)
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 129.300
 |-
@@ -538,7 +538,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 119.200
 |-
-| <strong>Logon Callsign</strong> || EDDS_S_APP
+| <strong>Logon Callsign</strong> || EDDS_REU_APP
 |-
 | <strong>Hauptfunktion</strong> || Platzhalter
 |}
@@ -557,7 +557,7 @@ EBG 1 covers the sectors Bottrop and Düsseldorf Arrival. Primary task is to man
 |-
 | style="width: 35%" | <strong>Frequenz</strong> || 125.050
 |-
-| <strong>Logon Callsign</strong> || EDDS_N_APP
+| <strong>Logon Callsign</strong> || EDDS_STG_APP
 |-
 | <strong>Hauptfunktion</strong> || Platzhalter
 |}
