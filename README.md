@@ -1,12 +1,12 @@
 Export:
 inkscape --export-type="png" RUD.svg -D -d 300 -b WHITE
 
-
+Updated sectors 
 | **Sectors** | **Done** |
 |:-----------:|:--------:|
 | BAD         |     X    |
 | BOT         |     X    |
-| DKA         |     X    |
+| DKA         |         |
 | DKB         |     X    |
 | DUS         |          |
 | EIF         |     X    |
@@ -25,7 +25,7 @@ inkscape --export-type="png" RUD.svg -D -d 300 -b WHITE
 | PADL        |          |
 | NRKH        |     X    |
 | NKRL        |     X    |
-| PFA         |          |
+| PFA         |     X    |
 | PSA         |     X    |
 | REU         |     X    |
 | RUD         |     X    |
