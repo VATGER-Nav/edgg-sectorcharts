@@ -84,7 +84,7 @@ class Airway:
             x_2, y_2 = m(b.x, b.y)
             # ax.text(x_1, y_1, a.name)
             # ax.text(x_2, y_2, b.name)
-            ax.plot([x_1, x_2], [y_1, y_2], c='#9ebdff', linewidth=0.4)
+            ax.plot([x_1, x_2], [y_1, y_2], c='#FF0000', linewidth=0.4)
 
 
 class Copx:
