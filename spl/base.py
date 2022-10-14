@@ -6,9 +6,8 @@ from matplotlib.colors import to_hex
 
 header = ['FIX', 'NEXT SECTOR', 'DEP', 'ARR', 'C LEVEL', 'D LEVEL']
 
-colors = ['#ffedd9', '#d9fcfe', '#fcdaff', '#fffcd9', '#d9d9ff', '#efffda', '#d8ffe2']
-border_colors = ['#ffc380', '#4df6ff', '#f266ff', '#fff266', '#6666ff', '#b2ff4d', '#66ff8c']
 hatch = ['/', '\\', '|', '-', '+', 'x', 'o', 'O', '.', '*']
+
 
 def remove_empty(s):
     return s != ''
@@ -125,7 +124,13 @@ class Waypoint:
                 fontsize=5, c='#23a819')
 
 
-def plot_current(sector, ax, m, annotate, i=0):
+def plot_current(sector, ax, m, annotate, coloured, i=0):
+    if coloured:
+        colors = ['#ffedd9', '#d9fcfe', '#fcdaff', '#fffcd9', '#d9d9ff', '#efffda', '#d8ffe2']
+        border_colors = ['#ffc380', '#4df6ff', '#f266ff', '#fff266', '#6666ff', '#b2ff4d', '#66ff8c']
+    else:
+        colors = ['#ffffff']
+        border_colors = ['#808080']
     x = sector.x
     y = sector.y
     x.append(x[0])

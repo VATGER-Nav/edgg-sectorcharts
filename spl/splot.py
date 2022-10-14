@@ -5,7 +5,7 @@ from base import basemap, plot_neighbour, plot_current, get_sectors_with_copx, g
 from pandas import concat
 
 
-def main(sis, annotate, scale, levels, group, neighbours, airways, copx_bool, waypoints):
+def main(sis, annotate, scale, levels, group, neighbours, airways, copx_bool, waypoints, coloured):
     sis = sis.split(',')
     neighbours = neighbours.split(',')
     if copx_bool:
@@ -38,7 +38,7 @@ def main(sis, annotate, scale, levels, group, neighbours, airways, copx_bool, wa
         for i, si in enumerate(sis):
             if group:
                 if si in key:
-                    plot_current(val, ax, m, False, i)
+                    plot_current(val, ax, m, False, coloured, i)
                     sel_sectors.append(val.name)
                     copx_list.append(val.copx_table(fixes, m, ax))
                     if levels is None:
@@ -48,7 +48,7 @@ def main(sis, annotate, scale, levels, group, neighbours, airways, copx_bool, wa
                             max_level = val.upper_level
             else:
                 if si == key:
-                    plot_current(val, ax, m, False, i)
+                    plot_current(val, ax, m, False, coloured, i)
                     copx_list.append(val.copx_table(fixes, m, ax))
                     if levels is None:
                         if val.lower_level < min_level:
@@ -82,11 +82,10 @@ def main(sis, annotate, scale, levels, group, neighbours, airways, copx_bool, wa
         for i, si in enumerate(sis):
             if group:
                 if si in key:
-                    plot_current(val, ax, m, annotate, i)
+                    plot_current(val, ax, m, annotate, coloured, i)
             else:
                 if si == key:
-                    plot_current(val, ax, m, annotate, i)
-
+                    plot_current(val, ax, m, annotate, coloured, i)
     if airways is not None:
         airways = airways.split(',')
         airway_dict = get_airways()
@@ -136,6 +135,7 @@ if __name__ == '__main__':
     parser.add_argument('-w', '--airways', type=str, help='Airways to plot, separated by ,', default=None)
     parser.add_argument('-c', '--copx', action='store_true', help='Add Copx table to plot')
     parser.add_argument('-y', '--waypoints', type=str, help='Waypoints to plot, separated by ,', default=None)
+    parser.add_argument('-f', '--coloured', action='store_true', help='If set, sectors have different colours')
 
     args = parser.parse_args()
-    main(args.sectors, args.annotate, args.scale, args.levels, args.group, args.neighbours, args.airways, args.copx, args.waypoints)
+    main(args.sectors, args.annotate, args.scale, args.levels, args.group, args.neighbours, args.airways, args.copx, args.waypoints, args.coloured)
