@@ -119,9 +119,8 @@ class Waypoint:
     def annotate(self, ax, m):
         x, y = m(self.x, self.y)
         ax.text(x, y - 3500, '{0}'.format(self.name), horizontalalignment='center', verticalalignment='center',
-                fontsize=5, c='#23a819')
-        ax.text(x, y, '$\Delta$', horizontalalignment='center', verticalalignment='center',
-                fontsize=5, c='#23a819')
+                fontsize=4, c='#646464', fontfamily='Calibri', fontweight='bold')
+        ax.scatter(x, y, marker='^', c='#646464', s=2.5)
 
 
 def plot_current(sector, ax, m, annotate, coloured, i=0):
