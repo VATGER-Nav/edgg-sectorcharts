@@ -128,7 +128,7 @@ def plot_current(sector, ax, m, annotate, coloured, i=0):
         colors = ['#ffedd9', '#d9fcfe', '#fcdaff', '#fffcd9', '#d9d9ff', '#efffda', '#d8ffe2']
         border_colors = ['#ffc380', '#4df6ff', '#f266ff', '#fff266', '#6666ff', '#b2ff4d', '#66ff8c']
     else:
-        colors = ['#ffffff']
+        colors = ['#f5f5f5']
         border_colors = ['#808080']
     x = sector.x
     y = sector.y
