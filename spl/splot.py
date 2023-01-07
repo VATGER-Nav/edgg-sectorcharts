@@ -5,9 +5,10 @@ from base import basemap, plot_neighbour, plot_current, get_sectors_with_copx, g
 from pandas import concat
 
 
-def main(sis, annotate, scale, levels, group, neighbours, airways, copx_bool, waypoints, coloured):
+def main(sis, annotate, scale, levels, group, neighbours, airways, copx_bool, waypoints, coloured, dotted):
     sis = sis.split(',')
     neighbours = neighbours.split(',')
+    dotted = dotted.split(',')
     if copx_bool:
         fig, ax = plt.subplots(nrows=1, ncols=2)
         ax, ax1 = ax
@@ -41,20 +42,20 @@ def main(sis, annotate, scale, levels, group, neighbours, airways, copx_bool, wa
                     plot_current(val, ax, m, False, coloured, i)
                     sel_sectors.append(val.name)
                     copx_list.append(val.copx_table(fixes, m, ax))
-                    if levels is None:
-                        if val.lower_level < min_level:
-                            min_level = val.lower_level
-                        if val.upper_level > max_level:
-                            max_level = val.upper_level
+                    # if levels is None:
+                    #     if val.lower_level < min_level:
+                    #         min_level = val.lower_level
+                    #     if val.upper_level > max_level:
+                    #         max_level = val.upper_level
             else:
                 if si == key:
                     plot_current(val, ax, m, False, coloured, i)
                     copx_list.append(val.copx_table(fixes, m, ax))
-                    if levels is None:
-                        if val.lower_level < min_level:
-                            min_level = val.lower_level
-                        if val.upper_level > max_level:
-                            max_level = val.upper_level
+                    # if levels is None:
+                    #     if val.lower_level < min_level:
+                    #         min_level = val.lower_level
+                    #     if val.upper_level > max_level:
+                    #         max_level = val.upper_level
 
     # Axis plot limits
     x_min, x_max = ax.get_xlim()
@@ -65,17 +66,25 @@ def main(sis, annotate, scale, levels, group, neighbours, airways, copx_bool, wa
     ax.set_ylim((y_min - scale * y_shift, y_max + scale * y_shift))
 
     # Plot neighbouring sectors
+    if levels is not None:
+        for key, val in sectors.items():
+            for si in sis:
+                if group:
+                    if (si not in key) and ((
+                            min_level < val.lower_level < max_level or min_level < val.upper_level < max_level)
+                                            or (key in neighbours) or (key in dotted)):
+                        plot_neighbour(val, ax, m, key in neighbours, key in dotted)
+                else:
+                    if si != key and ((min_level < val.lower_level < max_level or min_level < val.upper_level < max_level)
+                            or (key in neighbours)):
+                        plot_neighbour(val, ax, m, key in neighbours, key in dotted)
     for key, val in sectors.items():
-        for si in sis:
-            if group:
-                if (si not in key) and ((
-                        min_level < val.lower_level < max_level or min_level < val.upper_level < max_level)
-                                        or (key in neighbours)):
-                    plot_neighbour(val, ax, m, key in neighbours)
-            else:
-                if si != key and ((min_level < val.lower_level < max_level or min_level < val.upper_level < max_level)
-                        or (key in neighbours)):
-                    plot_neighbour(val, ax, m, key in neighbours)
+        for neighbour in neighbours:
+            if neighbour in key:
+                plot_neighbour(val, ax, m, True)
+        for dot in dotted:
+            if dot in key:
+                plot_neighbour(val, ax, m, True, True)
 
     # Plot main sector again
     for key, val in sectors.items():
@@ -136,6 +145,8 @@ if __name__ == '__main__':
     parser.add_argument('-c', '--copx', action='store_true', help='Add Copx table to plot')
     parser.add_argument('-y', '--waypoints', type=str, help='Waypoints to plot, separated by ,', default=None)
     parser.add_argument('-f', '--coloured', action='store_true', help='If set, sectors have different colours')
+    parser.add_argument('-d', '--dotted', type=str, help='Sector IDs of sectors to plot with dashed lines', default='')
 
     args = parser.parse_args()
-    main(args.sectors, args.annotate, args.scale, args.levels, args.group, args.neighbours, args.airways, args.copx, args.waypoints, args.coloured)
+    main(args.sectors, args.annotate, args.scale, args.levels, args.group, args.neighbours, args.airways, args.copx,
+         args.waypoints, args.coloured, args.dotted)

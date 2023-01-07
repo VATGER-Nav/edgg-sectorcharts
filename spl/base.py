@@ -144,13 +144,17 @@ def plot_current(sector, ax, m, annotate, coloured, i=0):
     ax.fill(x, y, alpha=1, c=colors[i % len(colors)])
 
 
-def plot_neighbour(sector, ax, m, annotate):
+def plot_neighbour(sector, ax, m, annotate, dotted=False):
     x = sector.x
     y = sector.y
     x.append(x[0])
     y.append(y[0])
     x, y = m(x, y)
-    ax.plot(x, y, c='#8f8f8f', linewidth=0.2)
+    if dotted:
+        ax.plot(x, y, c='#b8b8b8', linewidth=0.5, linestyle=(0, (5, 5)))
+    else:
+        ax.plot(x, y, c='#8f8f8f', linewidth=0.2, linestyle='solid')
+
     if annotate:
         ax.text((np.max(x) + np.min(x)) / 2, (np.max(y) + np.min(y)) / 2,
                 '{0}\n{1}\n{2}'.format(sector.name, sector.upper_level,
