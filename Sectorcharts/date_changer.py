@@ -6,7 +6,7 @@ def new_date(path):
     new = []
     with open(path) as f:
         for i, line in enumerate(f.readlines()):
-            new.append(re.sub(r'sodipodi:role="line">(\d+.\d+.\d+)', 'sodipodi:role="line">07.10.2022', line))
+            new.append(re.sub(r'sodipodi:role="line">(\d+.\d+.\d+)', 'sodipodi:role="line">07.01.2022', line))
             if 'Sektor' in line:
                 print(line)
     with open(path, 'w') as f:
