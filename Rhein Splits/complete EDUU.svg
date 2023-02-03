@@ -27,14 +27,14 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="1.7990451"
-     inkscape:cx="301.27093"
-     inkscape:cy="140.63016"
+     inkscape:cx="301.27094"
+     inkscape:cy="185.65405"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer9" />
+     inkscape:current-layer="svg3139" />
   <metadata
      id="metadata2">
     <rdf:RDF>
@@ -129,14 +129,6 @@
   </defs>
   <g
      id="figure_1">
-    <g
-       id="patch_1"
-       transform="translate(0.24933653)">
-      <path
-         d="M 0,345.6 H 460.8 V 0 H 0 Z"
-         style="fill:#ffffff"
-         id="path8" />
-    </g>
     <g
        id="axes_1">
       <g

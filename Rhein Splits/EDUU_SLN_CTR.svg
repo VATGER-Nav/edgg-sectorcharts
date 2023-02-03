@@ -28,7 +28,7 @@
      showgrid="false"
      inkscape:zoom="1.7990451"
      inkscape:cx="307.38529"
-     inkscape:cy="204.55296"
+     inkscape:cy="205.10881"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -165,13 +165,6 @@
   </defs>
   <g
      id="figure_1">
-    <g
-       id="patch_1">
-      <path
-         d="M 0 345.6  L 460.8 345.6  L 460.8 0  L 0 0  z "
-         style="fill: #ffffff"
-         id="path43981" />
-    </g>
     <g
        id="axes_1">
       <g
@@ -5014,7 +5007,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0328px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.211433;stroke-opacity:0"
        x="154.11679"
        y="65.666389"
-       id="tspan68366">EDGG_DKB_CTR</tspan></text>
+       id="tspan68366">EDGG_GIN_CTR</tspan></text>
   <g
      inkscape:label="VATGER Border"
      id="layer9"
